@@ -22,6 +22,6 @@ public class Main {
         }
 
 
-        System.out.print("Fibonacci sequence result for the desired times is : " +f(n));
+        System.out.print("Fibonacci sequence result for the desired times is : " + f(n));
     }
 }
